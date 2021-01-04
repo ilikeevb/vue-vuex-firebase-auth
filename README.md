@@ -1,5 +1,5 @@
-# duckforms
-
+# vue-vuex-firebase-auth
+The idea is taken from [this repository](https://github.com/aofdev/vue-firebase-auth-vuex).
 ## Project setup
 ```
 npm install
